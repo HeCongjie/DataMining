@@ -1,0 +1,65 @@
+
+########################################################################
+#      Date:           Fri Jan 11 06:27:02 PST 2019
+#    Job ID:           14285.c009
+#      User:           u22188
+# Resources:           neednodes=1:ppn=2,nodes=1:ppn=2,walltime=06:00:00
+########################################################################
+
+Starting calculation
+Configuring RNN model...
+Configuring TensorBoard and Saver...
+Loading training and validation data...
+Time usage: 0:00:13
+Training and evaluating...
+Epoch: 1
+Iter:      0, Train Loss:    2.3, Train Acc:  10.16%, Val Loss:    2.3, Val Acc:   8.14%, Time: 0:00:29 *
+Iter:    100, Train Loss:   0.83, Train Acc:  68.75%, Val Loss:    1.2, Val Acc:  57.54%, Time: 0:05:59 *
+Iter:    200, Train Loss:   0.48, Train Acc:  83.59%, Val Loss:   0.99, Val Acc:  68.66%, Time: 0:11:26 *
+Iter:    300, Train Loss:   0.44, Train Acc:  86.72%, Val Loss:   0.69, Val Acc:  79.74%, Time: 0:16:53 *
+Epoch: 2
+Iter:    400, Train Loss:   0.39, Train Acc:  90.62%, Val Loss:   0.76, Val Acc:  75.20%, Time: 0:22:18 
+Iter:    500, Train Loss:   0.39, Train Acc:  88.28%, Val Loss:   0.47, Val Acc:  87.16%, Time: 0:27:45 *
+Iter:    600, Train Loss:   0.26, Train Acc:  92.97%, Val Loss:    0.5, Val Acc:  85.82%, Time: 0:33:12 
+Iter:    700, Train Loss:   0.14, Train Acc:  94.53%, Val Loss:   0.41, Val Acc:  89.06%, Time: 0:38:34 *
+Epoch: 3
+Iter:    800, Train Loss:   0.24, Train Acc:  95.31%, Val Loss:   0.44, Val Acc:  88.02%, Time: 0:43:57 
+Iter:    900, Train Loss:   0.15, Train Acc:  95.31%, Val Loss:   0.39, Val Acc:  89.82%, Time: 0:49:19 *
+Iter:   1000, Train Loss:   0.23, Train Acc:  94.53%, Val Loss:   0.39, Val Acc:  89.28%, Time: 0:54:43 
+Iter:   1100, Train Loss:   0.15, Train Acc:  96.88%, Val Loss:   0.39, Val Acc:  89.22%, Time: 1:00:06 
+Epoch: 4
+Iter:   1200, Train Loss:   0.15, Train Acc:  95.31%, Val Loss:   0.32, Val Acc:  92.20%, Time: 1:05:29 *
+Iter:   1300, Train Loss:  0.064, Train Acc:  98.44%, Val Loss:   0.36, Val Acc:  90.98%, Time: 1:10:52 
+Iter:   1400, Train Loss:  0.085, Train Acc:  96.88%, Val Loss:   0.35, Val Acc:  91.74%, Time: 1:16:15 
+Iter:   1500, Train Loss:  0.089, Train Acc:  96.88%, Val Loss:   0.37, Val Acc:  90.82%, Time: 1:21:39 
+Epoch: 5
+Iter:   1600, Train Loss:   0.24, Train Acc:  92.19%, Val Loss:   0.38, Val Acc:  89.78%, Time: 1:27:02 
+Iter:   1700, Train Loss:   0.11, Train Acc:  96.09%, Val Loss:   0.36, Val Acc:  91.36%, Time: 1:32:26 
+Iter:   1800, Train Loss:  0.083, Train Acc:  97.66%, Val Loss:   0.34, Val Acc:  91.78%, Time: 1:37:50 
+Iter:   1900, Train Loss:   0.15, Train Acc:  95.31%, Val Loss:   0.36, Val Acc:  91.26%, Time: 1:43:12 
+Epoch: 6
+Iter:   2000, Train Loss: 0.0095, Train Acc: 100.00%, Val Loss:   0.34, Val Acc:  91.50%, Time: 1:48:35 
+Iter:   2100, Train Loss:  0.013, Train Acc:  99.22%, Val Loss:   0.31, Val Acc:  92.18%, Time: 1:53:58 
+Iter:   2200, Train Loss:  0.064, Train Acc:  98.44%, Val Loss:   0.32, Val Acc:  92.22%, Time: 1:59:21 *
+Iter:   2300, Train Loss:  0.048, Train Acc:  97.66%, Val Loss:   0.31, Val Acc:  92.66%, Time: 2:04:44 *
+Epoch: 7
+Iter:   2400, Train Loss:  0.042, Train Acc:  99.22%, Val Loss:   0.36, Val Acc:  91.92%, Time: 2:10:06 
+Iter:   2500, Train Loss:  0.051, Train Acc:  99.22%, Val Loss:   0.31, Val Acc:  92.54%, Time: 2:15:29 
+Iter:   2600, Train Loss:  0.097, Train Acc:  96.88%, Val Loss:   0.37, Val Acc:  90.62%, Time: 2:20:52 
+Iter:   2700, Train Loss:   0.07, Train Acc:  97.66%, Val Loss:   0.42, Val Acc:  89.96%, Time: 2:26:16 
+Epoch: 8
+Iter:   2800, Train Loss:  0.078, Train Acc:  96.88%, Val Loss:   0.35, Val Acc:  91.58%, Time: 2:31:40 
+Iter:   2900, Train Loss:  0.071, Train Acc:  98.44%, Val Loss:   0.36, Val Acc:  91.62%, Time: 2:37:03 
+Iter:   3000, Train Loss:  0.096, Train Acc:  97.66%, Val Loss:   0.37, Val Acc:  90.80%, Time: 2:42:27 
+Iter:   3100, Train Loss:  0.014, Train Acc:  99.22%, Val Loss:   0.39, Val Acc:  90.86%, Time: 2:47:49 
+Epoch: 9
+Iter:   3200, Train Loss:  0.012, Train Acc: 100.00%, Val Loss:   0.51, Val Acc:  88.46%, Time: 2:53:11 
+Iter:   3300, Train Loss:  0.044, Train Acc:  97.66%, Val Loss:   0.36, Val Acc:  91.54%, Time: 2:58:34 
+No optimization for a long time, auto-stopping...
+End of calculation
+
+########################################################################
+# End of output for job 14285.c009
+# Date: Fri Jan 11 09:26:14 PST 2019
+########################################################################
+
